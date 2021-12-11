@@ -35,7 +35,7 @@ print("GCD of two numbers is: ", hcf(a,b))
 ```
 
 ## Output:
-![](gcd.png)
+![](unknown.jpg)
 
 
 ## Result:
